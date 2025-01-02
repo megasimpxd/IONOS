@@ -1,3 +1,0 @@
-cd Interstellar
-
-npm start
